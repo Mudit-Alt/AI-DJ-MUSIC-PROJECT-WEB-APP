@@ -3,7 +3,7 @@ leftWristY = 0;
 rightWristX = 0;
 rightWristY = 0;
 music_1 = '';
-music_ = '';
+music_2 = '';
 
 function setup() {
     canvas = createCanvas(600, 500);
